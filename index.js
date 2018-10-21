@@ -13,3 +13,4 @@ function fibonnaci(tamanhoDaSequencia) {
 }
 
 let listaFibonnaci5Elementos = fibonnaci(5)
+console.log(listaFibonnaci5Elementos)
